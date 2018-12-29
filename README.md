@@ -1,10 +1,15 @@
 # ToDoListTask Using CoreData
 
 iOS application : ToDo Task with coreData
-Features: 1. Add task to core data
-          2. Save task as important
-          3. view task
-          4. Delete when completed
+Features: 
+
+1. Add task to core data
+
+2. Save task as important
+
+3. view task
+
+4. Delete when completed
           
   # Screens:
     
